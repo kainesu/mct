@@ -1,0 +1,43 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/j.ymben.2010.12.001",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1096717610001059",
+            "author": [
+                {
+                    "family": "Sandoval",
+                    "given": "Nicholas R."
+                },
+                {
+                    "family": "Mills",
+                    "given": "Tirzah Y."
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Min"
+                },
+                {
+                    "family": "Gill",
+                    "given": "Ryan T."
+                }
+            ],
+            "container-title": "Metabolic Engineering",
+            "id": "sandoval2011",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        3,
+                        1
+                    ]
+                ]
+            },
+            "page": "214-224",
+            "title": "Elucidating acetate tolerance in <i>E. coli</i> using a genome-wide approach",
+            "type": "article-journal",
+            "volume": "13"
+        }
+    ],
+    "project_biblios": []
+}

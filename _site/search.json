@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSection 1\n\n\n\nSection 2\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts. Now I am going to cite Sandoval et al. (2011)\n\n\n\n\n\nReferences\n\nSandoval, Nicholas R., Tirzah Y. Mills, Min Zhang, and Ryan T. Gill. 2011. “Elucidating Acetate Tolerance in E. Coli Using a Genome-Wide Approach.” Metabolic Engineering 13 (2): 214–24. https://doi.org/10.1016/j.ymben.2010.12.001."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m a synthetic biologist from Singapore, currently working on engineering bacteria to use more sustainable feedstocks. I recently graduated from a university in the UK and will be heading to the US soon to start on my PhD. I am interested in how synthetic biology can be used to solve issues in sustainability."
+  },
+  {
+    "objectID": "posts/welcome/index.html#another-section",
+    "href": "posts/welcome/index.html#another-section",
+    "title": "Welcome To My Blog",
+    "section": "Another section",
+    "text": "Another section"
+  },
+  {
+    "objectID": "posts/welcome/index.html#an-even-smaller-section",
+    "href": "posts/welcome/index.html#an-even-smaller-section",
+    "title": "Welcome To My Blog",
+    "section": "An even smaller section",
+    "text": "An even smaller section"
+  }
+]

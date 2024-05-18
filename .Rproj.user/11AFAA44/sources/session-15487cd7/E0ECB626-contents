@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Microbial Culture Technology"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: minty
+    mainfont: Noto Sans, sans-serif
+    css: styles.css
+
+editor: visual
+

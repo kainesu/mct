@@ -1,0 +1,11 @@
+---
+title: "Post With Code"
+date: "2024-05-18"
+categories: [news, code, analysis]
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
